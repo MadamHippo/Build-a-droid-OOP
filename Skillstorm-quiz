@@ -1,0 +1,41 @@
+Quiz 1:
+
+
+Identify the correct signature of the main method by selecting the appropriate codes. (Select all that apply)
+  public static void main(String[] args) 
+  static public void main(String[] args) 
+  
+  
+Explaination:
+
+public static void main(String[] args) - This is the correct and standard signature for the main method.
+
+static public void main(String[] args) - This is also a valid signature for the main method. The placement of the "static" and "public" keywords can be interchanged without affecting the functionality.
+
+
+
+Quiz 2:
+
+Select the appropriate code block to complete this code:
+
+// Class
+
+public class HelloVehicle {
+
+// Variable
+
+int speed;
+
+// Method
+
+void accelerate() {}
+
+// Constructor
+
+HelloVehicle(){
+
+speed = 0;
+
+}
+
+}
